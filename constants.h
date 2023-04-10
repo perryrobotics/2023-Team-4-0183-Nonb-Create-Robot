@@ -1,8 +1,8 @@
 #define LM 3
 #define RM 0
 
-#define START 0
-#define BLACK 3500
+#define START 1
+#define BLACK 3700
 #define LEFT_LINE 5
 #define RIGHT_LINE 0
 
